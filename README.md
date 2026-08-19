@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguel-da-silva&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=migueldasilva.contato&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ sistema:
   formacao: "Bacharelado em Engenharia de Software — Católica de SC (2026 - 2028)"
   experiencia_anterior: "Engenharia Mecânica — UDESC"
   cargo_atual: "Auxiliar de Metrologia @ Balantec"
-  idiomas: ["Português [nativo]", "Inglês [avançado]", "Espanhol [profissional]"]
+  idiomas: ["Português [nativo]", "Inglês [avançado]"]
   interesses: ["Desenvolvimento Full Stack", "Automação", "Ciência de Dados", "Boas práticas de engenharia"]
   modo: "Aprendizado contínuo + construção de projetos reais"
 ```
@@ -91,7 +91,7 @@ Sistema full stack para gerenciamento de dados, construído com foco em performa
 
 `Java` `TypeScript` `MySQL`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/REPO_1)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/migueldasilva.contato/REPO_1)
 
 </td>
 <td width="50%">
@@ -101,7 +101,7 @@ Aplicação web responsiva com integração de API, autenticação e painel admi
 
 `PHP` `JavaScript` `HTML/CSS`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/REPO_2)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/migueldasilva.contato/REPO_2)
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Script de automação e análise de dados em Python para otimização de process
 
 `Python` `Pandas` `Automação`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/REPO_3)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/migueldasilva.contato/REPO_3)
 
 </td>
 <td width="50%">
@@ -123,7 +123,7 @@ Fundamentos de sistemas em C aplicados a estruturas de dados e lógica computaci
 
 `C` `Estruturas de Dados`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SEU_USUARIO/REPO_4)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/migueldasilva.contato/REPO_4)
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Fundamentos de sistemas em C aplicados a estruturas de dados e lógica computaci
 
 </div>
 
-> 💡 *Substitua os links acima (`SEU_USUARIO/REPO_X`) pelos seus repositórios reais.*
+> 💡 *Substitua os links acima (`migueldasilva.contato/REPO_X`) pelos seus repositórios reais.*
 
 ---
 
@@ -154,62 +154,20 @@ miguel@dev:~$ _
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## `06.` GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="40%"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-## `07.` GITHUB TROPHIES
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</div>
-
----
-
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
-## `08.` CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ *Gere sua própria snake animation configurando a [GitHub Action oficial](https://github.com/Platane/snk) no seu repositório de perfil.*
-
----
-
 <!-- ===================== REDES SOCIAIS ===================== -->
-## `09.` CONECTAR
+## `06.` CONECTAR
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/miguel-da-silva-847a2038a">
     <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/migueldasilva.contato">
     <img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=0d1117"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:migueldasilva.contato@gmail.com">
     <img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=0d1117"/>
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://instagram.com/migueelslva">
     <img src="https://img.shields.io/badge/Instagram-00f0ff?style=for-the-badge&logo=instagram&logoColor=0d1117"/>
   </a>
 </p>
