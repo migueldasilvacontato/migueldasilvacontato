@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Engineer-00f0ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=migueldasilva.contato&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" />
-</p>
 
 ---
 
